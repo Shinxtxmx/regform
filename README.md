@@ -1,1 +1,1 @@
-# Registration form using PHP PDO, BOOTSTRAP, AJAX, MySQL.
+# Registration form using PHP, BOOTSTRAP, AJAX, MySQL.
